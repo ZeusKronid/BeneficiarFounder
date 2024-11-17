@@ -1,7 +1,7 @@
 # BeneficiarFounder
 ![image](https://github.com/user-attachments/assets/1bfbd66d-2654-40a4-a536-4e6304bbd069)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f755d0e8-4f6e-4d95-83f1-61885069156d)
 
 Repository for BIV hackaton  
 Usage: 
