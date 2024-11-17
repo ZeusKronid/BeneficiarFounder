@@ -19,4 +19,7 @@ Repository for BIV hackaton
 tar файл с упакованным контейнером можно найти по ссылке: https://drive.google.com/file/d/1SbwLXSfKOruzycTDEhZz4yoM4IDWEwJo/view?usp=sharing  
 1. Загрузите модель: docker load < beneficiar_founder.tar
 2. Запустите докер, указав путь к папке с .tsv файлами командой: docker run --rm -v $/path/to/files:/app my-solution.
-3. Внутри {/path/to/files} папки появистя файл output.tsv, содержащий список бенефициаров компаний. 
+3. Внутри {/path/to/files} папки появистя файл output.tsv, содержащий список бенефициаров компаний.
+
+------
+Название .tsv инпут файлов должны быть: company.tsv, founder_legal.tsv, founder_natural.tsv
