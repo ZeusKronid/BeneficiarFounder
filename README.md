@@ -1,4 +1,8 @@
 # BeneficiarFounder
+![image](https://github.com/user-attachments/assets/1bfbd66d-2654-40a4-a536-4e6304bbd069)
+
+![Uploading image.png…]()
+
 Repository for BIV hackaton  
 Usage: 
 1. Build docker inside project folder: docker build -t my-solution .
